@@ -1,0 +1,29 @@
+body {
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e6e4d9;
+}
+
+#mainheader {
+    background-color: #a593c2;
+}
+
+nav {
+    height: 60px;
+    width: 1000px;
+    margin: 0 auto 20px;
+}
+
+#mb-p {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#leftmenu {
+    float: left;
+    width: 30%;
+    margin-bottom: 20px;
+}
